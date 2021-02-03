@@ -2,9 +2,9 @@
 
 
 Files Description:
-## IMDb_Movie Dashboard.xlsx:
+## IMDb Movies Dashboard.xlsx:
 
-I have created an interactive dashboard on 2016 IMDB Movie Database using excel pivot tables which can be found in repository.
+I have created an interactive dashboard on 2016 IMDB Movie Database using excel pivot tables which can be found in repository.The dashboard represents yearly top 10 Movies Budget with gross revenue,Number of genre(types of movies like horror,comedy,etc),revenue by country,top 5 earning director and total movies by genre and rating. 
 
 ## Case studies using Pivot Tables.xlsx:
 
